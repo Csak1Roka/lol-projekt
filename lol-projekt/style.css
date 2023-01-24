@@ -1,0 +1,36 @@
+body { 
+    background-image: url(img/bg/map.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border-radius: 300px;
+    border-color: black;
+    align-content: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.felsotable {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
